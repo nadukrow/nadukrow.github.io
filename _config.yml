@@ -1,0 +1,21 @@
+# Site settings
+title: Different Forks for Different Folks
+header-img: img/home-bg.png
+email: nadukrow@gmail.com
+copyright_name: nadukrow
+description: > # this means to ignore newlines until "baseurl:"
+  Various projects will range from front end to back end as well as data science.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: NanoBreakr
+github_username:  nadukrow
+learn_profile: nadukrow
+email_username: nadukrow@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
