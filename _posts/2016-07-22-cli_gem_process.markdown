@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI Gem Process"
-date:   2016-07-22 02:17:34 +0000
+date:   2016-07-21 22:17:34 -0400
 ---
 
 
